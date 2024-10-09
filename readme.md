@@ -5,6 +5,7 @@ To join our Discord server, click here.
 
 
 ## 🚀 How to use
+1. Clone this repository to your local machine and open index.html.
 1. Type in the URL of the blocked website. 
 2. In the below textbox, type the name of a school website.
 3. Click the "Generate" button to create an iframe that displays the blocked content. This iframe is fullscreen and makes it look as if it's not blocked at all.
@@ -12,15 +13,6 @@ To join our Discord server, click here.
 
 ## How it Works
 When you type in a blocked URL into the script, it generates an iframe that displays the blocked content without being detected by GoGuardian. This allows you to access websites that would otherwise be blocked by the filter.
-
-## How to Use
-Clone this repository to your local machine.
-Open the index.html file in a text editor.
-Type in the URL of the blocked website you want to access.
-Click the "Go" button.
-The blocked content should now be displayed in the iframe.
-Note: This script should only be used for educational or research purposes. Misuse of this script may be in violation of your school or organization's policies and could result in disciplinary action.
-
 
 ## Quick & Easy Deployment Options
 
