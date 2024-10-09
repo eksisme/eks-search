@@ -4,12 +4,10 @@ Hyrix, a mod of Aroria's GoGuardian bypasser is a simple script that allows you 
 To join our Discord server, click here.
 
 
-## 🚀 Features
-1. GoGuardian Bypass: Access blocked websites on your school or organization's network with the GoGuardian bypass script.
-2. Easy to Use: Simply type in the URL of the blocked website, and in a below textbox, type the name of a school website. Click the "Generate" button to create an iframe that displays the blocked content.
-3. Customizable: The script is open source and can be modified to fit your specific needs or preferences.
-4. Markdown Formatting: The README file uses Markdown formatting, making it easy to read and navigate.
-5. Discord Community: Join our Discord server to connect with other users, share tips and tricks, and get help with any issues you may encounter.
+## 🚀 How to use
+1. Type in the URL of the blocked website. 
+2. In the below textbox, type the name of a school website.
+3. Click the "Generate" button to create an iframe that displays the blocked content. This iframe is fullscreen and makes it look as if it's not blocked at all.
 
 
 ## How it Works
