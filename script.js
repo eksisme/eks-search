@@ -1,9 +1,9 @@
 function generateIframe() {
     var url = `https://${document.getElementById('url').value;}`
-    var name = document.getElementById('name').value;
+    var title = document.getElementById('title').value;
     var iframe = document.createElement('iframe');
     iframe.src = url;
-    document.title = name
+    document.title = title
     document.body.appendChild(iframe);
 }
 
