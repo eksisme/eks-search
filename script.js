@@ -3,8 +3,7 @@ function generateIframe() {
     var name = document.getElementById('name').value;
     var iframe = document.createElement('iframe');
     iframe.src = url;
-    if(name != ""){
-    document.title = name}else{document.title = `Hyrix: ${url}`}
+    document.title = name
     document.body.appendChild(iframe);
 }
 
