@@ -19,7 +19,7 @@ When you type in a blocked URL into the script, it generates an iframe that disp
 Clone this repository to your local machine.
 Open the index.html file in a text editor.
 Type in the URL of the blocked website you want to access.
-Click the "Generate" button.
+Click the "Go" button.
 The blocked content should now be displayed in the iframe.
 Note: This script should only be used for educational or research purposes. Misuse of this script may be in violation of your school or organization's policies and could result in disciplinary action.
 
