@@ -1,9 +1,10 @@
 function generateIframe() {
-    var url = document.getElementById('url').value;
+    var url = `https://${document.getElementById('url').value;}`
     var name = document.getElementById('name').value;
     var iframe = document.createElement('iframe');
     iframe.src = url;
-    document.title = name
+    if(name != ""){
+    document.title = name}else{document.title = `Hyrix: ${url}`}
     document.body.appendChild(iframe);
 }
 
